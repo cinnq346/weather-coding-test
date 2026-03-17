@@ -3,7 +3,7 @@ Simple python coding test
 
 
 ## Environment
-This exercise requires using `pipenv` as the Python dependency manager. On iOS, you can install that with command:
+This exercise requires using `pipenv` as the Python dependency manager. On MacOS, you can install that with command:
 ```
 brew install pipenv
 ```
